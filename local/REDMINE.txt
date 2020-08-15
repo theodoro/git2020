@@ -1,5 +1,0 @@
-Estudando Git 
-
-Alterando o arquivo redmine
-
-Conteudo adicionado de forma equivocada (Deu Ruim)
