@@ -1,1 +1,3 @@
 Estudando Git 
+
+Alterando o arquivo redmine
