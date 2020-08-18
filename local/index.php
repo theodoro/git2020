@@ -4,6 +4,8 @@ function branch_teste(){
     return true;
 }
 
-function branch_funcao($num = 0){
-    return false;
+function branch_funcao($id){
+    if($id>=0 return false);
+    return true;
+
 }
